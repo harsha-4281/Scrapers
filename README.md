@@ -39,20 +39,17 @@ ecommerce_scraper/
 
 Installation
 
-1) Clone the repository:
-   git clone YOUR_GITHUB_REPOSITORY_URL
+Clone the repository:
+git clone YOUR_GITHUB_REPOSITORY_URL
 
+Navigate into the project:
+cd ecommerce_scraper
 
-2)Navigate into the project:
-   cd ecommerce_scraper
+Create a virtual environment:
+python -m venv .venv
 
-
-3)Create a virtual environment:
-   python -m venv .venv
-
-
-4) Activate it on Windows:
-   .venv\Scripts\activate
+Activate it on Windows:
+.venv\Scripts\activate
 
 
 Install dependencies:
