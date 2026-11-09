@@ -1,12 +1,12 @@
-                                         E-commerce Product Scraper
+                                            E-COMMERCE PRODUCT SCRAPER
 
-Project Overview
+PROJECT OVERVIEW:
 
 This is a Python-based web scraping project that extracts book information from Books to Scrape.
 
 The scraper collects product information from multiple pages and organizes the extracted data using Pandas.
 
-Features
+FEATURES
 - Extract product names.
 - Extract product prices.
 - Extract product ratings.
@@ -19,14 +19,14 @@ Features
 - Export cleaned data into CSV and Excel files.
 - Handle common HTTP request errors.
 
-Technologies Used
+TECHNOLOGIES USED
 - Python
 - Requests
 - BeautifulSoup
 - Pandas
 - OpenPyXL
 
-Project Structure
+PROJECT STRUCTURE
 ecommerce_scraper/
 ├── main.py
 ├── scraper.py
@@ -37,7 +37,7 @@ ecommerce_scraper/
 └── output/
 
 
-Installation
+INSTALLATION
 
 Clone the repository:
 git clone YOUR_GITHUB_REPOSITORY_URL
@@ -60,13 +60,13 @@ Run the Project
 python main.py
 
 
-Output
+OUTPUT
 The scraper generates:
 - output/products.csv
 - output/products.xlsx
 
-Website
+WEBSITE
 Practice website: https://books.toscrape.com/
 
-Disclaimer
+DISCLAIMER
 This project uses Books to Scrape, a website designed for practicing web scraping. Always respect website terms, robots.txt instructions, rate limits, and applicable laws when scraping other websites.
